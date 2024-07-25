@@ -26,7 +26,9 @@
 ^+e::send {U+03B5} ; ε
 
 ^+p::send {U+03C0} ; π
-^+s::send {U+2140} ; ⅀
+^+t::send {U+03C4} ; τ
+^+m::send {U+03BC} ; μ
+^+#!s::send {U+0D9E}
 
 
 +#1::send {U+2081} ; ₁
@@ -39,6 +41,12 @@
 +#8::send {U+2088} ; ₈
 +#9::send {U+2089} ; ₉
 +#0::send {U+2080} ; ₀
+
+#+x::send {U+00D7} ; ×
+#+.::Send {U+00B7} ; ·
+#+s::send {U+2140} ; ⅀
+#+p::send {U+213F} ; ℿ
+#+g::send {U+213E} ; ℾ
 
 
 
@@ -54,22 +62,18 @@
 ^#u::send {U+22C3} ; ⋃
 ^#n::send {U+22C2} ; ⋂
 
-
 ^#C::send {U+2282} ; ⊂
 ^#G::send {U+2286} ; ⊆
 ^#Q::send {U+2284} ; ⊄
-
 #!C::send {U+2283} ; ⊃
 #!G::send {U+2287} ; ⊇
 #!Q::send {U+2285} ; ⊅ 
-
 
 ^#t::send {U+2234} ; ∴
 ^#x::send {U+2203} ; ∃
 ^#f::send {U+2200} ; ∀
 
-^+x::send {U+00D7} ; ×
-^+.::Send {U+00B7} ; ·
+
 #!=::send {U+2260} ; ≠
 ^#=::send {U+2248} ; ≈
 ^#,::send {U+2264} ; ≤
@@ -78,6 +82,3 @@
 
  ^+Esc::ExitApp
  #+Esc::ExitApp
-
-
- 
