@@ -1,0 +1,49 @@
+most set theory symbols, all Set of numbers symbols, and some extra number notations
+\ctrl\ + \shift\ + num:: results in power notation...
+
+       -combined with 'n'||'z'||'q'||'r'||'i'||'c'||'u' 	results in ℕ, ℤ, ℚ, ℝ, 𝕀,  ℂ, 𝕌
+       -with 'o'||'w'||'e'||'a'||'l'||'p'||'t'||'m'  		for  Ω, ω, ε, ℵ, λ, π, τ, μ
+
+\win\ + \shift\ + num:: results in ordinal notation...
+
+       -with 'x'||'.'||'p'||'s'||'g'  				results in  ×, ·, ℿ, ⅀, ℾ
+
+\ctrl\ + \win\ with: [
+
+       e -> ∈
+       3 -> ∋
+
+       c -> ⊂
+       g -> ⊆
+       q -> ⊄
+
+       d -> ∆
+       o -> ∨
+       a -> ∧
+       u -> ⋃
+       n -> ⋂
+
+
+       = -> ≈
+       > -> ≥
+       < -> ≤     
+
+       t -> ∴
+       x -> ∃
+       f -> ∀ 
+]
+\win\ + \alt\ with: [
+
+       e -> ∉
+       3 -> ∌
+
+       c -> ⊃
+       g -> ⊇
+       q -> ⊅
+
+       = -> ≠
+]
+
+..and lastly, \\ctrl\ or \win\\ + \shift\ + \escape\ to exit out, have fun explaining set theory ya goofs ΩωΩ x3
+
+-the System
