@@ -80,5 +80,8 @@
 ^#.::Send {U+2265} ; ≥
 
 
- ^+Esc::ExitApp
- #+Esc::ExitApp
+^#'::send ''{Left} ; '+'
+*^#Right::send {Right}{Space}''{Left} ;
+
+^+Esc::ExitApp
+#+Esc::ExitApp
